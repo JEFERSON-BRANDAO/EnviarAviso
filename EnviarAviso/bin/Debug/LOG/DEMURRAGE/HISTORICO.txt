@@ -1,0 +1,11 @@
+[09-10-2019 08:12:18] - NÚMERO CONTAINER: 12A, ETA_MAO: 29/09/2019, VENCIMENTO: 10/10/2019, Email enviado com sucesso
+[09-10-2019 08:12:23] - NÚMERO CONTAINER: 12B, ETA_MAO: 29/09/2019, VENCIMENTO: 09/10/2019, Email enviado com sucesso
+[10-10-2019 00:00:30] - NÚMERO CONTAINER: 12A, ETA_MAO: 29/09/2019, VENCIMENTO: 10/10/2019, Email enviado com sucesso
+[10-10-2019 00:00:34] - NÚMERO CONTAINER: 100, ETA_MAO: 29/09/2019, VENCIMENTO: 20/10/2019, Email enviado com sucesso
+[21-10-2019 13:15:56] - FUNÇÃO:CarregaDados(), Erro: Transaction failed. The server response was: Mail from report.system@mail.foxconn.com rejected for policy reasons.
+[21-10-2019 13:18:58] - NÚMERO CONTAINER: BEAU2070684, ETA_MAO: 08/10/2019, DIÁRIA DE PRANCHA: 9 DIA(S), Email enviado com sucesso
+[21-10-2019 13:25:32] - NÚMERO CONTAINER: BEAU2070684, ETA_MAO: 08/10/2019, DIÁRIA DE PRANCHA: 9 DIA(S), Email enviado com sucesso
+[22-10-2019 06:47:39] - NÚMERO CONTAINER: BEAU2070684, ETA_MAO: 08/10/2019, VENCIMENTO: 29/10/2019, Email enviado com sucesso
+[22-10-2019 06:48:05] - NÚMERO CONTAINER: BEAU2070684, ETA_MAO: 08/10/2019, DIÁRIA DE PRANCHA: 10 DIA(S), Email enviado com sucesso
+[28-09-2020 13:58:14] - FUNÇÃO:CarregaDadosSpareParts(), Erro: Transaction failed. The server response was: Mail from report.system@mail.foxconn.com rejected for policy reasons.
+[28-09-2020 13:58:23] - FUNÇÃO:CarregaDadosSpareParts(), Erro: Transaction failed. The server response was: Mail from report.system@mail.foxconn.com rejected for policy reasons.

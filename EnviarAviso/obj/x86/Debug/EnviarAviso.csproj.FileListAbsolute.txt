@@ -1,0 +1,16 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\obj\x86\Debug\SendFTP.Send.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\obj\x86\Debug\EnviarAviso.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\obj\x86\Debug\EnviarAviso.Properties.Resources.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\bin\Debug\EnviarAviso.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\bin\Debug\EnviarAviso.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\obj\x86\Debug\EnviarAviso.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\obj\x86\Debug\EnviarAviso.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\SendFTP\SendFTP\obj\x86\Debug\EnviarAviso.csprojResolveAssemblyReference.cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\bin\Debug\EnviarAviso.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\bin\Debug\EnviarAviso.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\obj\x86\Debug\SendFTP.Send.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\obj\x86\Debug\EnviarAviso.Properties.Resources.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\obj\x86\Debug\EnviarAviso.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\obj\x86\Debug\EnviarAviso.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\obj\x86\Debug\EnviarAviso.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\EnviarAviso\EnviarAviso\obj\x86\Debug\EnviarAviso.csprojResolveAssemblyReference.cache
